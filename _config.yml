@@ -15,21 +15,20 @@ lunrsearch: no    ## Javascript will still be included, but Jekyll won't build t
 
 ## Useful metadata, available to a liquid filter as site.title, site.author.name, etc
 ## Used in _inculdes templates headers and footers.  
-title: Lab Notebook 
-tagline: Theoretical ecology and evolution
+title: H+D Lab Notebook 
+tagline: at the intersection of humanities and design
 author:
-  name: Carl Boettiger
-  email: cboettig@gmail.com
-  givenName: Carl
-  familyName: Boettiger
-  twitter: cboettig
-  github: cboettig
-  mendeley: carl-boettiger
-url: http://www.carlboettiger.info
-repo: https://github.com/cboettig/labnotebook # used in linking history
+  name: Nicole Coleman
+  email: cncoleman@stanford.edu
+  givenName: Nicole
+  familyName: Coleman
+  twitter: 
+  github: 
+url: http://hdlab.stanford.edu
+repo: https://github.com/athanasius-project/labnotebook/ # used in linking history
 
 ## Google Analytics key (in _includes/analytics.html)
-analytics: UA-18401403-1 
+analytics: UA-39616982-1
 
 
 ## Markdown Parser (standard Jekyll argument, extended to special parser)
